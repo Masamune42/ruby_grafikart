@@ -1,0 +1,1 @@
+puts "Salut la planète"
