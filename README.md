@@ -46,3 +46,9 @@ Une fonction finissant par "?" va renvoyer un booléen et une finissant par "!" 
 a.upcase # variable non modifiée
 a.upcase! # variable modifiée
 ````
+
+Récupérer la classe d'un élément
+````rb
+:red.class
+1.class
+````
