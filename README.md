@@ -41,3 +41,8 @@ nom = "Alex"
 "Bonjour #{nom} comment ça va?"
 ````
 
+Une fonction finissant par "?" va renvoyer un booléen et une finissant par "!" va changer l'élément.
+````rb
+a.upcase # variable non modifiée
+a.upcase! # variable modifiée
+````
